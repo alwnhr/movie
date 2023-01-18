@@ -1,0 +1,62 @@
+.myBG {
+  height: 100vh;
+  background:url('../assets/bg/img/bioskop.pg.jpg');
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.tittle {
+  font-size: 3rem;
+  font-weight: 1000;
+  line-height: 1;
+  text-shadow: 4px red;
+  letter-spacing: 3px;
+}
+
+.trending {
+  height: auto;
+  background:url('../assets/bg/img/1.jpg');
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+  color: black;
+}
+
+.image {
+  height: 500px;
+}
+
+.animeh {
+  height: auto;
+  background:url('../assets/bg/img/hd.jpg');
+  background-size: cover;
+}
+
+.comedy {
+  height: auto;
+  background:url('../assets/bg/img/1.jpg');
+  background-size: cover;
+}
+
+.fantasy {
+  height: auto;
+  background:url('../assets/bg/img/hd.jpg');
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background:url('../assets/bg/img/1.jpg');
+  background-size: cover;
+}
